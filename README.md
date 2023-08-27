@@ -1,2 +1,2 @@
 # Project
-Hi, these project are that I did through DA Course
+Hi, these project were completed by me through DA Course
